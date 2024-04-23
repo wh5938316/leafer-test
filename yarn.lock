@@ -956,10 +956,10 @@ leafer-ui@1.0.0-rc.21:
     "@leafer/partner" "1.0.0-rc.21"
     "@leafer/web" "1.0.0-rc.21"
 
-leafer-x-ruler@^1.0.8:
-  version "1.0.8"
-  resolved "https://registry.npmjs.org/leafer-x-ruler/-/leafer-x-ruler-1.0.8.tgz#7794d01dfb4275da9547c0f19e30bade7eef6f45"
-  integrity sha512-cyXjvqlFNvN3WjHr8WcoFZXcQmnkXrC0zcglGSl/onWKPm6CqfwLXUhbdDjopdxUsuQpTVJBTiqyasZthbgcCg==
+leafer-x-ruler@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.npmjs.org/leafer-x-ruler/-/leafer-x-ruler-1.0.9.tgz#e69bff15c62573df62075e49cfebe3a405aa35e8"
+  integrity sha512-tY7/7me3ViGgSoz27ULx2PcA+ZwKEmqqcHqVA7SDLt+v9FbYcpyUTsPpR/8gu787E3BA1s5rCMXGpCt/Q+MbwQ==
   dependencies:
     "@leafer-in/editor" "^1.0.0-rc.21"
     "@leafer-ui/core" "^1.0.0-rc.21"
@@ -1259,6 +1259,7 @@ streamsearch@^1.1.0:
   integrity sha512-Mcc5wHehp9aXz1ax6bZUyY5afg9u2rv5cqQI3mRrYkGC8rW2hM02jWuwjtL++LS5qinSyhj2QfLyNsuc+VsExg==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.npmjs.org/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -1277,6 +1278,7 @@ string-width@^5.0.1, string-width@^5.1.2:
     strip-ansi "^7.0.1"
 
 "strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  name strip-ansi-cjs
   version "6.0.1"
   resolved "https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==

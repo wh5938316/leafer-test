@@ -85,7 +85,7 @@ export default function View({ target }: { target: HTMLElement }) {
 
     // 注释后，rect旋转正常
     // 假如取消注释，会导致rect旋转出现问题
-    app.frame.add(image);
+    // app.frame.add(image);
 
     app.on(MoveEvent.BEFORE_MOVE, function (e: MoveEvent) {
       app.frame.moveWorld(e.moveX, e.moveY)
