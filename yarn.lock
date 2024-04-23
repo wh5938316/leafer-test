@@ -956,10 +956,10 @@ leafer-ui@1.0.0-rc.21:
     "@leafer/partner" "1.0.0-rc.21"
     "@leafer/web" "1.0.0-rc.21"
 
-leafer-x-ruler@^1.0.9:
-  version "1.0.9"
-  resolved "https://registry.npmjs.org/leafer-x-ruler/-/leafer-x-ruler-1.0.9.tgz#e69bff15c62573df62075e49cfebe3a405aa35e8"
-  integrity sha512-tY7/7me3ViGgSoz27ULx2PcA+ZwKEmqqcHqVA7SDLt+v9FbYcpyUTsPpR/8gu787E3BA1s5rCMXGpCt/Q+MbwQ==
+leafer-x-ruler@^1.0.10:
+  version "1.0.10"
+  resolved "https://registry.npmjs.org/leafer-x-ruler/-/leafer-x-ruler-1.0.10.tgz#1b026708b926b1387bb18abeef94954b792b9d0f"
+  integrity sha512-JQnrs1XxIAttHYRu3+gsAtNlMsYlp+X1fm2QGVG/LKVEaIh0w7Oedl28md4qLkYhsu9CB18h1qtZOh7voEl+eQ==
   dependencies:
     "@leafer-in/editor" "^1.0.0-rc.21"
     "@leafer-ui/core" "^1.0.0-rc.21"

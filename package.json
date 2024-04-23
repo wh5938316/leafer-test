@@ -14,7 +14,7 @@
     "@leafer-in/state": "1.0.0-rc.21",
     "@leafer-in/view": "1.0.0-rc.21",
     "leafer-ui": "1.0.0-rc.21",
-    "leafer-x-ruler": "^1.0.9",
+    "leafer-x-ruler": "^1.0.10",
     "next": "14.2.2",
     "react": "^18",
     "react-dom": "^18"
